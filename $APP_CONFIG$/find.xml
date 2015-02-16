@@ -1,6 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="customScope" value="File '/Users/Peter/Dropbox/Work/Project Storm/app/app-setup/app-setup-view.js'" />
+    <option name="defaultScopeName" value="File '/Users/Peter/Dropbox/Work/Project Storm/app/app-setup/app-setup-view.js'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/Peter/Dropbox/Work/Project Storm/app/app-setup/app-setup-view.js'" />
   </component>
 </application>
