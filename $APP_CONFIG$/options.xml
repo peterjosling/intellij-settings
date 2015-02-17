@@ -1,0 +1,23 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.9.0" value="15" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="WebStorm.multiCaretsEnabled" value="true" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="machine_id" value="f0w583z7heiwisnvp3q64s4er" />
+    <property name="machine_name" value="Kyong Bohrn" />
+    <property name="installation.uid" value="5bcd0ce1-cf2b-49a1-a71d-977c205ad267" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+  </component>
+</application>
