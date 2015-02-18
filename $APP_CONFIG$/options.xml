@@ -19,5 +19,6 @@
     <property name="file.colors.enable.tests" value="Green" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="Tests" value="Green" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
   </component>
 </application>
