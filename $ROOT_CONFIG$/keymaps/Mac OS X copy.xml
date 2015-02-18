@@ -1,0 +1,58 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
+  <action id="Diff.SelectedChange" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="DELETE" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.NewFolder" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift meta O" />
+  </action>
+  <action id="GotoFile" />
+  <action id="GuiDesigner.DeleteGroup">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="control ENTER" />
+    <keyboard-shortcut first-keystroke="meta N" />
+  </action>
+  <action id="Servers.RemoveArtifact">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+</keymap>

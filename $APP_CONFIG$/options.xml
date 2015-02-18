@@ -1,0 +1,24 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="machine_id" value="f0w583z7heiwisnvp3q64s4er" />
+    <property name="machine_name" value="Kiyoko Malech" />
+    <property name="installation.uid" value="aa7fe98e-6857-4537-ba1b-7fc553dda414" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="Tests" value="Green" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+  </component>
+</application>
