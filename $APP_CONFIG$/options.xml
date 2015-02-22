@@ -1,0 +1,18 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="WebStorm.multiCaretsEnabled" value="true" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="machine_id" value="f0w583z7heiwisnvp3q64s4er" />
+    <property name="machine_name" value="Royce Brazen" />
+    <property name="installation.uid" value="2fd9432d-0279-483a-b7c1-bc3ba115dac8" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
+    <property name="Non-Project Files" value="Yellow" />
+  </component>
+</application>
