@@ -18,5 +18,7 @@
     <property name="user_name" value="peterjosling" />
     <property name="user_id" value="86fdaff8a24195ca70df254b8a9a1d17aed5ae2a" />
     <property name="user_token" value="502a7796ab28469c6cf4adb0e5e186be622a55e1" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="HbCommenterLanguageId" value="HTML" />
   </component>
 </application>
