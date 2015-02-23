@@ -18,5 +18,8 @@
     <property name="file.colors.enable.tests" value="Green" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="Tests" value="Green" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="project.wizard.template" value="Java" />
   </component>
 </application>
