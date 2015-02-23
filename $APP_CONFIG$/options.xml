@@ -7,7 +7,7 @@
     <property name="WebStorm.inlineDebuggerEnabled" value="true" />
     <property name="WebStorm.lineNumbersEnabled" value="true" />
     <property name="machine_id" value="f0w583z7heiwisnvp3q64s4er" />
-    <property name="machine_name" value="Royce Brazen" />
+    <property name="machine_name" value="Wartortle" />
     <property name="installation.uid" value="2fd9432d-0279-483a-b7c1-bc3ba115dac8" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
@@ -15,5 +15,8 @@
     <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="FindSplitterProportion" value="0.25" />
+    <property name="user_name" value="peterjosling" />
+    <property name="user_id" value="86fdaff8a24195ca70df254b8a9a1d17aed5ae2a" />
+    <property name="user_token" value="502a7796ab28469c6cf4adb0e5e186be622a55e1" />
   </component>
 </application>
