@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="GeneralSettings">
-    <option name="lastTip" value="0" />
-    <option name="showTipsOnStartup" value="false" />
+    <option name="lastTip" value="44" />
+    <option name="showTipsOnStartup" value="true" />
     <option name="showOccupiedMemory" value="false" />
     <option name="reopenLastProject" value="true" />
     <option name="autoSyncFiles" value="true" />
@@ -15,7 +14,6 @@
     <option name="searchInBackground" value="false" />
     <option name="confirmExit" value="true" />
     <option name="confirmOpenNewProject2" value="-1" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Dropbox/Projects" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Dropbox/Documents" />
   </component>
 </application>
-
