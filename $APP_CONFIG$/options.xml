@@ -20,5 +20,7 @@
     <property name="user_token" value="502a7796ab28469c6cf4adb0e5e186be622a55e1" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
     <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbFormatter" value="enabled" />
   </component>
 </application>
