@@ -22,5 +22,6 @@
     <property name="HbCommenterLanguageId" value="HTML" />
     <property name="HbAutoCollapseBlocks" value="disabled" />
     <property name="HbFormatter" value="enabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
   </component>
 </application>
