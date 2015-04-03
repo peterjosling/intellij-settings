@@ -135,6 +135,9 @@
     </option>
     <option name="lastPath" value="$USER_HOME$/Dropbox/Projects/risk-test" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
       <TextAttributes />
