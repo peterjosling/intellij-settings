@@ -42,7 +42,6 @@
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ebcb8b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -56,7 +55,6 @@
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ebcb8b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -82,8 +80,7 @@
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ebcb8b" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
