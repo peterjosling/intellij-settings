@@ -1,58 +1,58 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="$Delete">
-    <keyboard-shortcut first-keystroke="DELETE" />
-    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="meta W" />
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="Diff.SelectedChange" />
   <action id="DomElementsTreeView.DeleteElement">
-    <keyboard-shortcut first-keystroke="DELETE" />
-    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorDelete">
-    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="delete" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.NewFolder" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift meta O" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="GotoFile" />
   <action id="GuiDesigner.DeleteGroup">
-    <keyboard-shortcut first-keystroke="DELETE" />
-    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="control ENTER" />
-    <keyboard-shortcut first-keystroke="meta N" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="Servers.RemoveArtifact">
-    <keyboard-shortcut first-keystroke="DELETE" />
-    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="UsageView.Exclude">
-    <keyboard-shortcut first-keystroke="DELETE" />
-    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
 </keymap>
